@@ -1,9 +1,1 @@
-
-
-<div align="center">
-  <a href="https://github.com/sarmentothiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarmentothiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  
-<iframe src="https://giphy.com/embed/4PLqqamup8aUHbk8Hy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4PLqqamup8aUHbk8Hy">via GIPHY</a></p>
-  
+![Thiago](https://github-readme-stats.vercel.app/api?username=sarmentothiago&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmentothiago&layout=compact) <img src="https://media2.giphy.com/media/4PLqqamup8aUHbk8Hy/giphy.gif?cid=790b761105a44e9767fcd1711c413e19f9ab06a023764b2b&rid=giphy.gif&ct=g%22%3E%22%3E"  width=15% height=15%>
