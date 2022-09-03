@@ -5,7 +5,7 @@
 
 ##
 
-<img align="right" alt="Lari-pic" width=13% height=13% style="border-radius:50px;" 
+<img align="right" alt="my avatar" width=16% height=16% style="border-radius:50px;" 
 src="https://media2.giphy.com/media/4PLqqamup8aUHbk8Hy/giphy.gif?cid=790b761105a44e9767fcd1711c413e19f9ab06a023764b2b&rid=giphy.gif&ct=g%22%3E%22%3E">
 
 <div>
